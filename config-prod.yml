@@ -1,1 +1,2 @@
-prod.yml测试
+config: 
+  info: prod111
